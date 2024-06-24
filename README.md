@@ -31,7 +31,7 @@ This project is a NestJS-based RESTful API for managing Star Wars characters. It
    pnpm run start:dev
    ```
 
-   The API will be available at `http://localhost:3000`.
+   The API will be available at `http://localhost:3000/api`.
 
 ## API Documentation 📄
 
